@@ -1,0 +1,48 @@
+# Core Python Development
+python
+object-oriented programming
+data structures
+algorithms
+
+# Web Development (Backend)
+django
+flask
+fastapi
+rest api
+graphql
+
+# Data Science & AI
+pandas
+numpy
+scikit-learn
+tensorflow
+pytorch
+machine learning
+deep learning
+
+# Database & Storage
+mysql
+mongodb
+redis
+
+# DevOps & Cloud
+aws
+docker
+kubernetes
+ci/cd
+terraform
+jenkins
+
+# Testing & Agile
+unit testing
+tdd
+scrum
+jira
+agile
+
+# Specialized Skills
+big data
+spark
+kafka
+data pipelines
+software development lifecycle
